@@ -1,6 +1,6 @@
 # FASTQ to FASTA Converter
 
-Ce script Python permet de convertir des fichiers au format FASTQ en fichiers FASTA, en séparant également les scores de qualité dans un fichier dédié.
+Ce script Python permet de convertir des fichiers au format FASTQ en fichiers FASTA.
 
 ## Prérequis
 
