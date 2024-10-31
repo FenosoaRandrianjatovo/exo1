@@ -16,5 +16,5 @@ Téléchargez le script dans le dossier de votre choix.
 Exécutez le script depuis le terminal avec les options disponibles :
 
 ```bash
-python main.py -n "Toto_R1.fastq" -of " my_output.fasta" -oq "my_qual.qual" 
+python main_convertir.py -n "Toto_R1.fastq" -of " my_output.fasta" -oq "my_qual.qual" 
 
