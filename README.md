@@ -4,7 +4,7 @@ Ce script Python permet de convertir des fichiers au format FASTQ en fichiers FA
 
 ## Prérequis
 
-- Python 3.x
+- Python 3.9
 - Modules intégrés : `argparse`, `os`, `sys`
 
 ## Installation
