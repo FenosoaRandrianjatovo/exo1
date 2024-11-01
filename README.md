@@ -10,6 +10,9 @@ Ce script Python permet de convertir des fichiers au format FASTQ en fichiers FA
 ## Installation
 
 Téléchargez le script dans le dossier de votre choix.
+```bash
+git clone https://github.com/FenosoaRandrianjatovo/exo1.git
+```
 
 ## Utilisation
 
